@@ -2,7 +2,7 @@
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
-| **Nama**           |         Nurul Aisyah       |
+| **Nama**           |         Oktavia Rizkha Kurniawati       |
 | **NIM**            |          312310476         |
 | **Kelas**          |          TI.23.A.5         |
 | **Mata Kuliah**    |      Pemrograman Web 1     |
